@@ -21,6 +21,7 @@ body {
     justify-content: space-between;
 	margin: auto;
     margin-top: 20px;
+	width: 275px;
 }
 
 input[type="text"], input[type="password"] {
